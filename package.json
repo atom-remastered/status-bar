@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "fs-plus": "^3.0.1",
-    "grim": "^2.0.1",
+    "grim": "^2.0.3",
     "underscore-plus": "^1.0.0"
   },
   "providedServices": {
